@@ -1,7 +1,6 @@
 //
 //  ContentView.swift
 //  TipCalculator
-//
 //  Created by Admin on 3/4/25.
 //
 
